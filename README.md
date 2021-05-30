@@ -1,1 +1,1 @@
-# qaleth.net
+# qaleth
